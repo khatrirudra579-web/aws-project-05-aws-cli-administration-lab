@@ -1,0 +1,7 @@
+aws --version
+aws configure
+aws sts get-caller-identity
+aws ec2 describe-instances
+aws ec2 describe-regions
+aws s3 ls
+aws configure list
