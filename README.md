@@ -10,7 +10,7 @@ Learn how to manage AWS services using the AWS Command Line Interface (CLI).
 - S3
 - STS
 
-## Tasks Performed
+# Tasks Performed
 1. Installed AWS CLI
 2. Created IAM User
 3. Generated Access Keys
